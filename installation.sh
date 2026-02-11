@@ -17,7 +17,7 @@ fi
 
 # installing apps
 echo "Installing core tools"
-sudo pacman -S stow zsh fzf tmux neovim picom
+sudo apt -S stow zsh fzf tmux neovim 
 
 
 echo "Installing browsers"
